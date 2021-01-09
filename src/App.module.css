@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(250, 250,250);
+    background-image: url(https://image.shutterstock.com/z/stock-photo-coronavirus-concept-corona-virus-outbreak-on-china-many-virus-attack-isolated-on-white-background-1643323090.jpg);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} 
